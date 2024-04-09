@@ -1,2 +1,2 @@
 # Food-delivery
-It is an food delivery website created using MERN stack
+It is a food delivery website created using MERN stack
